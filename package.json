@@ -1,0 +1,15 @@
+{
+  "name": "josealbertovazq-knack-coding-exercise",
+  "version": "1.0.0",
+  "description": "Knack take home test",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage --runInBand --detectOpenHandles",
+    "start": "node index.js"
+  },
+  "author": "josealbertovazq",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.4.2"
+  }
+}
