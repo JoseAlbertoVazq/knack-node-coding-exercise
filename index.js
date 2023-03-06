@@ -32,6 +32,7 @@ const removeDuplicatedEntries = (array) => {
     }
 }
 
+
 /**
  * Call other methods to read the old file --> fix the duplicated entries problem inside objects and scenes --> create a new and clean JSON file in the root project
  * @returns new File
